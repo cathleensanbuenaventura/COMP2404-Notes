@@ -141,14 +141,14 @@
 - **delete** keyword
 
 
-# Dynamic Arrays
+# 4. Dynamic Arrays
 
 *Continue 16:13 lecture (Jan 22) then watch Jan 23*
 *Current lecture to catch: Jan 27*
 
 For **Primitives** - okay to pass by value.
 
-## Assignment 2/Tutorial 3 Notes
+### Assignment 2/Tutorial 3 Notes
 A1: this has to be implemented:
 - watch lec 22/25: About decrementing an array (closing the gap but not deleting the last array, just putting some extra so that another can be inserted)
 - Heap stuff: dynamic
