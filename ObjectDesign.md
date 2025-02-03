@@ -40,8 +40,8 @@ As we start to make modular code, we need to think about the object categories.
     - our class provides an abstraction layer of common collection functions.
 - An excellent example of good OO-Programming 
     - provides encapsulation and an abstraction layer to data access.
-- Review example: ![alt text](image.png)
-
+- Review example:
+- ![image](https://github.com/user-attachments/assets/4ffb7f48-bb2b-4281-aa03-964a02d8d8f6)
 - *Code example 08: Object Design Categories*
 _______________________________________________________________________
 ## 2. UML Class Diagram (& Documentation)
